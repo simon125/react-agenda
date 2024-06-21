@@ -1,5 +1,8 @@
 # This is a plan for conducting classes and list of repose needed in course
 
+## prework
+- https://github.com/simon125/react-prework
+
 ## homeworks
 - https://github.com/simon125/react-profile-card-homework
 - https://github.com/simon125/weight-converter-homework
